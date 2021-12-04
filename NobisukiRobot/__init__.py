@@ -4,7 +4,6 @@ import sys
 import time
 import spamwatch
 import telegram.ext as tg
-from redis import StrictRedis
 from pyrogram import Client, errors
 
 from telethon import TelegramClient
