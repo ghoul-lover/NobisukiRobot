@@ -4,7 +4,7 @@ import sys
 import time
 import spamwatch
 import telegram.ext as tg
-from pyrogram import Client, errors
+from pyrog
 
 from telethon import TelegramClient
 
